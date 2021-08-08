@@ -1,0 +1,31 @@
+.badAnswer{
+    background-color: rgb(219, 53, 68);
+    color: rgb(254, 192, 8);
+    height: 160px;
+    width: 60%;
+    border-radius: 0px;
+}
+.goodAnswer{
+    background-color: seagreen;
+    color: rgb(254, 192, 8);
+    height: 160px;
+    width: 60%;
+    border-radius: 0px;
+}
+
+.buttonBox{
+    background-color: rgb(51, 57, 62);
+}
+
+.submitBtn{
+    background-color: rgb(254, 192, 8);
+    border: 1px black solid;
+    color: rgb(51, 57, 62);
+}
+
+.cardText{
+    border-radius: 0px;
+}
+.card-title{
+    color:rgb(254, 192, 8);
+}
